@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">Verdadeiro</string>
+    <string name="false_button">Falso</string>
+    <string name="next_button">Avançar</string>
+    <string name="prev_button">Voltar</string>
+    <string name="correto">Você acertou.</string>
+    <string name="incorreto">Você errou.</string>
+    <string name="texto_pontuacao">Pontução: </string>
+    <string name="texto_cheat">Tem certesa que deseja trapacear?</string>
+    <string name="trapacear_button">Botão trapacear</string>
+    <string name="trapacear_errado">Trapacear é errado</string>
+    <string name="trapacear">Trapacear</string>
+    <string name="questao1">Brasil é uma provincia</string>
+    <string name="questao2">Peixe é anfibio</string>
+    <string name="questao3">Recife é a capital de PE</string>
+    <string name="questao4">Carlos é fresco</string>
+    <string name="questao5">Existem varias especies de animais</string>
+</resources>
